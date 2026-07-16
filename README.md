@@ -3,6 +3,5 @@ A Dynamic Tour Website
 # techer 
 sujit 
 
-# best clas 
-apna collge
-git
+# best class 
+apna collage
